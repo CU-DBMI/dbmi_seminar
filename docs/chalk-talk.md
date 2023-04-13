@@ -25,5 +25,12 @@ Typically, in academic settings, faculty candidates give chalk talks to outline 
   -	Approach: How will you accomplish the aims? 
   -	Resources: What do you need to be successful in this work? What will you spend money on? 
 
+## Additional resources
+- [How to design a chalk talk—the million dollar sales pitch](https://doi.org/10.1091/mbc.E19-01-0007)
+- [Structuring your chalk talk](https://pdco.med.jhmi.edu/job_search_toolkit/academic/chalk-talk/)
+- [On chalk talks for TT positions in biomedical sciences](https://www.med.upenn.edu/shorterlab/Papers/ChalkTalk.pdf)
+- [Preparing for your chalk talk](https://www.ascb.org/careers/academic-chalk-talk/)
+- [Other tips](https://www.careers.cam.ac.uk/files/advice_on_doing_a_chalk_talk.pdf)
+
 
 
