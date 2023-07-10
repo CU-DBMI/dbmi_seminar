@@ -3,6 +3,7 @@ Companion repo to host DBMI's seminar committee material | [@cu-dbmi](//github.c
 
 ## Docs
 - [Chalk talk 101](https://github.com/jananiravi/dbmi_seminar/blob/main/docs/chalk-talk.md)
+- [2023 Summer schedule](https://docs.google.com/spreadsheets/d/13rUvvddXflMo1gWENrDvuV_1AQgCtiMW9cZs8AT0hFM/edit?pli=1#gid=0)
 
 ## Other useful links
 - [Seminar nomination form](https://app.smartsheet.com/b/form/6cbafa6d404746b192d9f6a6dac6a5e4)
