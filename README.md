@@ -13,7 +13,7 @@ Companion repo to host DBMI's seminar committee material | [@cu-dbmi](//github.c
 ## The committee
 - Faculty: Janani Ravi & Katrina Claw
 - Staff: Zach Beaudoin & Carlos Rodriguez
-- Postdocs: Natalie Davidson, Kristen James, Halie Rando
+- Postdocs: Natalie Davidson, Kristen Sutton
 - Students: Brook Santangelo
 
 ## How to reach us?
