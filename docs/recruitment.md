@@ -1,9 +1,9 @@
 # Candidate recriutment
 ## Pre-Interview Meeting (OPTIONAL | 30 mins, 2-4 weeks ahead of interview)
 Candidates selected for a 1st interview can have a 30-minute meeting with the Search Chair or Director roughly 1-2 weeks in advance of the interview. During that meeting:
-●	The Search Chair or Director provides an overview of DBMI and its mission
-●	The Search Chair or Director describes the phase 1 (virtual) interview process
-  ○	For seminar and chalk talk guidelines, answer questions about the format of each component.
+-	The Search Chair or Director provides an overview of DBMI and its mission
+-	The Search Chair or Director describes the phase 1 (virtual) interview process
+  -	For seminar and chalk talk guidelines, answer questions about the format of each component.
 
 ## 1st Interview outline
 ###	“Day 1”
