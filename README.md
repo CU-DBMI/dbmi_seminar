@@ -12,10 +12,11 @@ Companion repo to host DBMI's seminar committee material | [@cu-dbmi](//github.c
 - [DBMI Intranet](https://olucdenver.sharepoint.com/sites/CenterforHealthAI939/SitePages/Department-of-Biomedical-Informatics.aspx)
 
 ## The committee
-- Faculty: Janani Ravi & Katrina Claw
-- Staff: Zach Beaudoin & Carlos Rodriguez
-- Postdocs: Natalie Davidson, Kristen Sutton
-- Students: Brook Santangelo
+- Chairs: Janani Ravi & Katrina Claw
+- Faculty: Etienne Davis
+- Staff: Carlos Rodriguez
+- Research Staff: Stacey Collister
+- Student: Jennifer Briggs
 
 ## How to reach us?
 - Webpage: [DBMI @ University of Colorado Anschutz Medical Campus](https://medschool.cuanschutz.edu/dbmi)
